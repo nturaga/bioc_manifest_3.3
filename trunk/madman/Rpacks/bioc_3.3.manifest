@@ -2201,3 +2201,7 @@ Package: RCy3
 
 Package: miRcomp
 
+Package: biobroom
+
+Package: subSeq
+
