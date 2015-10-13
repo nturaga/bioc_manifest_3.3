@@ -983,7 +983,7 @@ Package: fastseg
 
 Package: trigger
 
-Package: spade 
+Package: spade
 
 Package: BiocGenerics
 
@@ -1179,7 +1179,7 @@ Package: NOISeq
 
 Package: chroGPS
 
-Package: VariantTools 
+Package: VariantTools
 
 Package: rSFFreader
 
@@ -1509,19 +1509,19 @@ Package: GeneOverlap
 
 Package: AtlasRDF
 
-Package: BEAT 
+Package: BEAT
 
 Package: iClusterPlus
 
-Package: biosvd 
+Package: biosvd
 
-Package: ELBOW 
+Package: ELBOW
 
-Package: savR 
+Package: savR
 
 Package: trackViewer
 
-Package: GenomeInfoDb 
+Package: GenomeInfoDb
 
 Package: SomaticSignatures
 
@@ -1897,7 +1897,7 @@ Package: RnaSeqSampleSize
 
 Package: TRONCO
 
-Package: gdsfmt 
+Package: gdsfmt
 
 Package: mAPKL
 
@@ -1947,15 +1947,15 @@ Package: canceR
 
 Package: diggit
 
-Package: immunoClust 
+Package: immunoClust
 
-Package: LEA 
+Package: LEA
 
 Package: MatrixRider
 
 Package: netbenchmark
 
-Package: RNAprobR 
+Package: RNAprobR
 
 Package: SIMAT
 
@@ -1971,7 +1971,7 @@ Package: ensembldb
 
 Package: gtrellis
 
-Package: rcellminer 
+Package: rcellminer
 
 Package: LowMACA
 
@@ -1997,9 +1997,9 @@ Package: RUVcorr
 
 Package: SVM2CRM
 
-Package: BrowserVizDemo 
+Package: BrowserVizDemo
 
-Package: cogena 
+Package: cogena
 
 Package: CopywriteR
 
@@ -2073,7 +2073,7 @@ Package: PGA
 
 Package: erma
 
-Package: IONiseR 
+Package: IONiseR
 
 Package: fCI
 
@@ -2129,7 +2129,7 @@ Package: ChIPComp
 
 Package: myvariant
 
-Package: Path2PPI 
+Package: Path2PPI
 
 Package: ldblock
 
