@@ -2207,3 +2207,7 @@ Package: subSeq
 
 Package: CNPBayes
 
+Package: R4RNA
+
+Package: scde
+
