@@ -2211,10 +2211,6 @@ Package: R4RNA
 
 Package: scde
 
-Package: consensusSeekeR
-
-Package: globalSeq
-
 Package: globalSeq
 
 Package: consensusSeekeR
