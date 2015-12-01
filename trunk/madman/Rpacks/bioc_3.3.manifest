@@ -2223,3 +2223,9 @@ Package: iCOBRA
 
 Package: FamAgg
 
+Package: BioQC
+
+Package: biomformat
+
+Package: normalize450K
+
