@@ -2229,3 +2229,9 @@ Package: biomformat
 
 Package: normalize450K
 
+Package: dcGSA
+
+Package: profileScoreDist
+
+Package: transcriptR
+
