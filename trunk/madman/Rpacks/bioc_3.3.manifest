@@ -2255,3 +2255,9 @@ Package: cellTree
 
 Package: JunctionSeq
 
+Package: SC3
+
+Package: PanVizGenerator
+
+Package: EmpiricalBrownsMethod
+
