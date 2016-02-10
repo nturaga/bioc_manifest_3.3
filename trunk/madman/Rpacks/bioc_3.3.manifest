@@ -2277,3 +2277,5 @@ Package: BasicSTARRseq
 
 Package: EWCE
 
+Package: tximport
+
