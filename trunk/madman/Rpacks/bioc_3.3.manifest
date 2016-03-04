@@ -2307,6 +2307,8 @@ Package: dada2
 
 Package: MBttest
 
-Package: ExperimentHub 
+Package: ExperimentHub
 
-Package: ExperimentHubData 
+Package: ExperimentHubData
+
+Package: HDF5Array
