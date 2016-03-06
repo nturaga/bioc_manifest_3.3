@@ -2312,3 +2312,13 @@ Package: ExperimentHub
 Package: ExperimentHubData
 
 Package: HDF5Array
+Package: MethPed
+
+Package: biosigner
+
+Package: Uniquorn
+
+Package: nucleoSim
+
+Package: miRNAmeConverter
+
