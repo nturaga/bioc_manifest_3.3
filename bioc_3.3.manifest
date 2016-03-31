@@ -2378,3 +2378,11 @@ Package: Linnorm
 
 Package: CONFESS
 
+Package: odseq
+
+Package: Glimma
+
+Package: scran
+
+Package: BatchQC
+
