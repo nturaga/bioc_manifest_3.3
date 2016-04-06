@@ -2386,3 +2386,21 @@ Package: scran
 
 Package: BatchQC
 
+Package: pcaExplorer
+
+Package: oppar
+
+Package: pqsfinder
+
+Package: BgeeDB
+
+Package: genbankr
+
+Package: LymphoSeq
+
+Package: pbcmc
+
+Package: InteractionSet
+
+Package: ClusterSignificance
+
