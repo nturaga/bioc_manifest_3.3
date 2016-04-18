@@ -2414,3 +2414,9 @@ Package: epivizrServer
 
 Package: epivizrData
 
+Package: diffloop
+
+Package: CHRONOS
+
+Package: EGSEA
+
