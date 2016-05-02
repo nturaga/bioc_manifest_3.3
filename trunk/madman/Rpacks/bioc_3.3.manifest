@@ -2307,11 +2307,8 @@ Package: dada2
 
 Package: MBttest
 
-Package: ExperimentHub
-
-Package: ExperimentHubData
-
 Package: HDF5Array
+
 Package: MethPed
 
 Package: biosigner
@@ -2359,8 +2356,6 @@ Package: genphen
 Package: DEFormats
 
 Package: sscu
-
-Package: MultiAssayExperiment
 
 Package: GenoGAM
 
@@ -2427,4 +2422,3 @@ Package: ImmuneSpaceR
 Package: EGAD
 
 Package: epivizrStandalone
-
